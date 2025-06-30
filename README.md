@@ -3,6 +3,9 @@ Certainly! Here's the **entire README** in one block for your project:
 
 ````markdown
 # Lung Cancer Survival Prediction
+#DOWNLOAD DATA SET
+CLICK HERE
+https://drive.google.com/file/d/187OsVy9J3walBcq_c7dureb-usdyoH2X/view?usp=sharing
 
 ## **Objective**
 The goal of this project is to predict whether a lung cancer patient will survive or not based on various clinical features such as age, gender, smoking status, BMI, family history, treatment type, and others. The dataset is highly imbalanced, with a significant number of **"survived"** cases compared to **"not survived"** cases, which makes the prediction task more challenging.
